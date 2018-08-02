@@ -1,0 +1,24 @@
+html {
+  font-size: 16px;
+  background-color: green;
+  color: white;
+}
+
+body {
+  /*height: 100%;*/
+  background-image: url('dinosaur-3129391_1280.png');
+  background-repeat: repeat;
+}
+
+video {
+  width: 60%;
+  height: auto;
+  display: block;
+}
+
+h1,
+h2,
+video {
+  margin: 2rem auto;
+  text-align: center;
+}
